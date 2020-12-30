@@ -6,6 +6,6 @@
 
 
 - 📧 How to reach me: aleksandra_toncheva@yahoo.com
-- 🎯 Reach me on Linkedin: linkedin.com/in/aleksandra-toncheva-0a846160
+- 🎯 Reach me on Linkedin: https://www.linkedin.com/in/aleksandra-toncheva-0a846160/
 
 
