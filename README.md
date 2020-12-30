@@ -3,6 +3,7 @@
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=tonchevaAleksandra&count_private=true&true&hide=issues&show_icons=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonchevaAleksandra&layout=compact" />
 </div>
+
 | :octocat: Connect via | :scroll: Certificates |
 | :-: | :-: |
 | :globe_with_meridians: [**LinkedIn**](https://www.linkedin.com/in/aleksandra-toncheva-0a846160/)| :heavy_check_mark: [**C# Basics 2020**](https://softuni.bg/Certificates/Details/81400/6dc2594a) :heavy_check_mark: [**C# Fundamentals 2020**](https://softuni.bg/Certificates/Details/86291/8161e7b5)|
