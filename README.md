@@ -9,6 +9,6 @@
 
 - 💻 I’m currently learning Software Engineering with C# in SoftUni(Software University - softuni.bg)
 - 📧 How to reach me: aleksandra_toncheva@yahoo.com
-- 🎯 Reach me on Linkedin: inkedin.com/in/aleksandra-toncheva-0a846160
+- 🎯 Reach me on Linkedin: linkedin.com/in/aleksandra-toncheva-0a846160
 
 
