@@ -2,7 +2,7 @@
 - 💻 I’m currently learning Software Engineering with C# in SoftUni (Software University - softuni.bg)
    <br>
    <img width="200" src=" <br>
-   <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
+   <img width="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 </p>">
 </p>
 <div>
