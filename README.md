@@ -1,10 +1,10 @@
 <p align="center">
 - 💻 I’m currently learning Software Engineering with C# in SoftUni (Software University - softuni.bg)
-<p align="center">𒐁 ИUᆿ ƧI ӘИIႧOƆ</p>
-<p align="center">𒐁 ИOIƧƧAԳ YM ƧI ӘИIႧOƆ</p>
    <br text-align:"center">
     <img width="200"  src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
 </p>
+<p align="center">𒐁 ИUᆿ ƧI ӘИIႧOƆ</p>
+<p align="center">𒐁 ИOIƧƧAԳ YM ƧI ӘИIႧOƆ</p>
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=tonchevaAleksandra&count_private=true&true&hide=issues&show_icons=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonchevaAleksandra&layout=compact" />
