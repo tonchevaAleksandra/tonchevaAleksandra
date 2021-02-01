@@ -3,7 +3,7 @@
   <p> ИUᆿ ƧI ӘИIႧOƆ</p>
 <p>ИOIƧƧAԳ YM ƧI ӘИIႧOƆ</p>
    <br>
-   <img width="200" src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif">
+   <img width="200" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
 </p>
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=tonchevaAleksandra&count_private=true&true&hide=issues&show_icons=true" />
