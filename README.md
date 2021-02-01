@@ -1,7 +1,7 @@
 <p align="center">
 - 💻 I’m currently learning Software Engineering with C# in SoftUni (Software University - softuni.bg)
-   - ИUᆿ ƧI ӘИIႧOƆ
-ИOIƧƧAԳ YM ƧI ӘИIႧOƆ
+  <p> ИUᆿ ƧI ӘИIႧOƆ</p>
+<p>ИOIƧƧAԳ YM ƧI ӘИIႧOƆ</p>
    <br>
    <img width="200" src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif">
 </p>
