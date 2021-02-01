@@ -3,7 +3,7 @@
 <p align="center">𒐁 ИUᆿ ƧI ӘИIႧOƆ</p>
 <p align="center">𒐁 ИOIƧƧAԳ YM ƧI ӘИIႧOƆ</p>
    <br align="center">
-   <img width="200" align="center" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif">
+   <img width="200" align="center" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif">|
     <br align="center">
     <img width="200" align="center" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
 </p>
