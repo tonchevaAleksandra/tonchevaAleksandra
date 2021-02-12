@@ -17,6 +17,7 @@
 | 📸 [**Instagram**](https://www.instagram.com/aleksandra_toncheva/)| :heavy_check_mark: [**C# Advanced 2020**](https://softuni.bg/Certificates/Details/90399/f9596589)|
 | :e-mail: **Email <br/> aleksandra_toncheva@yahoo.com**|:heavy_check_mark: [**C# OOP 2020**](https://softuni.bg/Certificates/Details/95821/e349bfc8)|
 ||:heavy_check_mark: [**HackerRank-Problem Solving(Basic**](https://www.hackerrank.com/certificates/3e22347cde9c)|
+||:heavy_check_mark: [**HackerRank-C# (Basic**](https://www.hackerrank.com/certificates/8369ad060141)|
 
 
 
