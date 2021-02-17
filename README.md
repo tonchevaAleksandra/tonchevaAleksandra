@@ -18,6 +18,7 @@
 | :e-mail: **Email <br/> aleksandra_toncheva@yahoo.com**|:heavy_check_mark: [**C# OOP 2020**](https://softuni.bg/Certificates/Details/95821/e349bfc8)|
 ||:heavy_check_mark: [**HackerRank-Problem Solving(Basic**](https://www.hackerrank.com/certificates/3e22347cde9c)|
 ||:heavy_check_mark: [**HackerRank-C# (Basic**](https://www.hackerrank.com/certificates/8369ad060141)|
+||:heavy_check_mark: [**MS SQL**](https://softuni.bg/Certificates/Details/97734/8d30252f)|
 
 
 
