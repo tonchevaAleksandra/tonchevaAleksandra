@@ -1,7 +1,7 @@
 <p align="center">
 - 💻 I’m currently learning Software Engineering with C# in SoftUni (Software University - softuni.bg)
    <br text-align:"center">
-   <img width="100" height="50" src="https://visitor-badge.glitch.me/badge?page_id=tonchevaAleksandra">
+<img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=georgidelchev">
     <br text-align:"center">
   <img width="200"  src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 </p>
