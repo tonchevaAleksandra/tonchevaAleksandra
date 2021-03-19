@@ -3,7 +3,7 @@
    <br text-align:"center">
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=tonchevaAleksandra">
     <br text-align:"center">
-  <img width="200"  src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+  <img width="200"  src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
 </p>
 <p align="center">𒐁 ИUᆿ ƧI ӘИIႧOƆ</p>
 <p align="center">𒐁 ИOIƧƧAԳ YM ƧI ӘИIႧOƆ</p>
