@@ -2,6 +2,7 @@
 - 💻 I’m currently learning Software Engineering with C# in SoftUni (Software University - softuni.bg)
    <br text-align:"center">
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=tonchevaAleksandra">
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FtonchevaAleksandra%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
     <br text-align:"center">
   <img width="200"  src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
 </p>
