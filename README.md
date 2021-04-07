@@ -21,6 +21,7 @@
 ||:heavy_check_mark: [**HackerRank-SQL (Basic)**](https://www.hackerrank.com/certificates/8af470758ae2)|
 ||:heavy_check_mark: [**HackerRank-C# (Basic)**](https://www.hackerrank.com/certificates/8369ad060141)|
 ||:heavy_check_mark: [**MS SQL**](https://softuni.bg/Certificates/Details/97734/8d30252f)|
+||:heavy_check_mark: [**Entity Framework Core**](https://softuni.bg/Certificates/Details/102591/bf28a1b7)|
 
 
 
