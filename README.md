@@ -1,5 +1,5 @@
 <p align="center">
- 💻 I’m currently learning Software Engineering with C# in SoftUni (Software University - softuni.bg)
+ 💻 I’m currently .Net developer
    <br text-align:"center">
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=tonchevaAleksandra">
    <br>
