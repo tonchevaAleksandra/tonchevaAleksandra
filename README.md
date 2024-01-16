@@ -22,7 +22,7 @@
 ||:heavy_check_mark: [**HackerRank-C# (Basic)**](https://www.hackerrank.com/certificates/8369ad060141)|
 ||:heavy_check_mark: [**MS SQL**](https://softuni.bg/Certificates/Details/97734/8d30252f)|
 ||:heavy_check_mark: [**Entity Framework Core**](https://softuni.bg/Certificates/Details/102591/bf28a1b7)|
-||:heavy_check_mark: [**GraphQL**]((https://www.udemy.com/certificate/UC-34c95ac0-b425-484f-a8aa-9e233030e853/)https://www.udemy.com/certificate/UC-34c95ac0-b425-484f-a8aa-9e233030e853/)|
+||:heavy_check_mark: [**GraphQL**]((https://www.udemy.com/certificate/UC-34c95ac0-b425-484f-a8aa-9e233030e853/)https://www.udemy.com/certificate/UC-34c95ac0-b425-484f-a8aa-9e233030e853)|
 
 
 
